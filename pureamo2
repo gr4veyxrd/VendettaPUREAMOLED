@@ -22,7 +22,7 @@
             "#947592"
         ],
         "TEXT_LINK": [
-            "#E69CFF"
+            "#008dfc"
         ],
         "INTERACTIVE_NORMAL": [
             "#9C3EBB"
@@ -80,7 +80,7 @@
             "#A4A4A4"
         ],
         "CHANNELS_DEFAULT": [
-            "#cef3f5"
+            "#f2f3f5"
         ],
         "TEXT_DANGER": [
             "#FC0E61"
