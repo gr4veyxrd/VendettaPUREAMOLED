@@ -1,10 +1,10 @@
 {
-    "name": "PurpAMOLED",
-    "description": "AMOLED version of PurpDark",
+    "name": "PureAMOLED",
+    "description": "Pure AMOLED, for those who just want white and black.",
     "authors": [
         {
-            "name": "@vorlie",
-            "id": "614807913302851594"
+            "name": "@gr4veyxrd",
+            "id": "499712446735581204"
         }
     ],
     "semanticColors": {
@@ -28,7 +28,7 @@
             "#9C3EBB"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#DF7FFF"
+            "#e4d1ea"
         ],
         "INTERACTIVE_MUTED": [
             "#947592"
@@ -80,7 +80,7 @@
             "#A4A4A4"
         ],
         "CHANNELS_DEFAULT": [
-            "#A571B7"
+            "#cef3f5"
         ],
         "TEXT_DANGER": [
             "#FC0E61"
@@ -89,7 +89,7 @@
             "#000000"
         ],
         "CHANNEL_ICON": [
-            "#9C3EBB"
+            "#80848e"
         ],
         "CHAT_BACKGROUND": [
             "#000000"
