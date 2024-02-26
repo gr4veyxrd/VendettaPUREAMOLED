@@ -65,4 +65,12 @@
     "YELLOW_300": "#B569E0",
     "GREEN_360": "#B569E0",
     "RED_400": "#FC0E61"
+  },
+  "spec": 2,
+  "background": {
+    "blur": 0,
+    "url": "https://raw.githubusercontent.com/Stephano069/vendetta-AMOLED-dark/main/background.png",
+    "alpha": 0.9,
+    "color": "#0A0A0A"
   }
+}
